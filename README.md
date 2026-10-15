@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi, I'm Nico!
+Sophomore @ Georgetown double-majoring in Marketing and Operations & Analytics.
+- 🔭 Building **Form D Radar**, a tool that tracks early-stage startups fundraising from SEC filings
+- 🌱 Learning Python & pandas
+- 💼 Interested in venture capital, startups and strategy consulting
+- 📫 ns1595@georgetown.edu · [LinkedIn](https://www.linkedin.com/in/nicolas-setton-94a9ab271)
 
 <!--
 **nicosetton/nicosetton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

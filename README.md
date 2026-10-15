@@ -1,5 +1,5 @@
 ### Hi, I'm Nico!
-Sophomore @ Georgetown double-majoring in Marketing and Operations & Analytics.
+Sophomore @ Georgetown double-majoring in Marketing and Operations & Analytics
 - 🔭 Building **Form D Radar**, a tool that tracks early-stage startups fundraising from SEC filings
 - 🌱 Learning Python & pandas
 - 💼 Interested in venture capital, startups and strategy consulting
